@@ -2,14 +2,14 @@ Please do not reply to this email. It was sent from an unmonitored inbox on beha
 
 Naga Sai Ganesh Athukuri,
 
-You are receiving this email because AWS’s data forensic analysis has detected statistical anomalies in your AWS Certified Solutions Architect - Associate exam performance, preventing us from validating and certifying your result. The exam was delivered under your AWS Certification account on Nov 17, 2026 with Registration Number 552191695. AWS’s use of data forensics to detect statistical anomalies is explained in the AWS Certification Program Agreement.
+You are receiving this email because AWS’s data forensic analysis has detected statistical anomalies in your AWS Certified Solutions Architect - Associate exam performance, preventing us from validating and certifying your result. The exam was delivered under your AWS Certification account on Nov 17, 2026 with Registration Number 552191695. AWS’s use of data forensics to detect statistical anomalies is explained in the AWS Certification Program Agreement(https://aws.amazon.com/certification/certification-agreement).
 
 What does the AWS Certification Program Agreement state about data forensic analysis?
 When you registered for your AWS Certification exam, you agreed to abide by the AWS Certification Program Agreement (“the CPA”). The CPA explains that AWS performs regular data forensic and other statistical analyses of our certification exams. AWS is committed to protecting the value of certifications by ensuring we can stand behind the validity of exam results. Data forensics is one of the tools that we use to analyze exam performance and detect results that exhibit significant irregularities, preventing AWS Certification from validating the result.
 
 AWS doesn’t share specific information about the analyses we perform. However, we can share that we take a conservative approach when acting based on data forensics. Exam results must meet multiple conditions before they’re invalidated, or a certification is revoked.
 
-Please review AWS Certification’s Data Forensics Policy for more information.
+Please review AWS Certification’s Data Forensics Policy(https://aws.amazon.com/certification/policies/general-policies/data-forensics/) for more information.
 
 How does this analysis impact your certification?
 As permitted by the CPA, AWS, in our sole discretion, has invalidated your AWS Certified Solutions Architect - Associate exam result and revoked any previously issued AWS Certified Solutions Architect - Associate certification related to your exam result. You are not eligible to receive a refund of any testing fees or any other compensation.
@@ -18,7 +18,8 @@ Can I retake the exam?
 Yes, you are allowed to retake the exam at a test center.
 
 YOU ARE PROHIBITED FROM TAKING ANY FUTURE AWS CERTIFICATION EXAMS THROUGH ONLINE, REMOTE ONLINE PROCTORED, OR ANY OTHER TEST DELIVERY MODE THAT IS INTENDED TO BE PROCTORED REMOTELY WITHOUT FIRST RECEIVING WRITTEN PERMISSION FROM THE AWS CERTIFICATION SECURITY TEAM. If you currently have an online exam scheduled, you must cancel and/or reschedule it so that it is delivered at a physical test center. Please contact Pearson Customer Support for rescheduling assistance. Failure to comply with this policy will result in invalidation of the exam and you will not be eligible for a refund or any other compensation. We encourage you to review our exam policies in advance.
-
+	https://home.pearsonvue.com/aws/contact
+https://aws.amazon.com/certification/policies/general-policies/
 What happens next?
 
 When a previously issued certification is revoked, all associated benefits are also revoked. This includes unused 50% discount vouchers and your AWS Certification digital badge. If you have already claimed and shared your digital badge, note that links to your badge will show a message that states “unable to verify badge.” Viewers will be directed to contact the badge owner for more information. You can access your digital badges and settings from your AWS Certification Account or directly on Credly’s digital badging platform.
